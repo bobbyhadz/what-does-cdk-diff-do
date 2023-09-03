@@ -1,7 +1,7 @@
 # What does CDK Diff do
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/what-does-cdk-diff-do)
+[bobbyhadz.com](https://bobbyhadz.com/blog/what-does-cdk-synth-do)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
